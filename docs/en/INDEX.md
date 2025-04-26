@@ -21,7 +21,7 @@ Please review all tasks used here and also look at the other modules included, n
 # install with dev requirements!
 ##### ##### ##### ##### 
 
-composer install --dev sunnysideup/spring-clean-recipe:dev-main
+composer require --dev sunnysideup/spring-clean-recipe:dev-main
 composer install 
 
 ##### ##### ##### ##### 
