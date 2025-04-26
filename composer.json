@@ -18,8 +18,8 @@
     "require": {
         "silverstripe/framework": "^5.0",
         "silverstripe/admin": "^2.0",
-        "brettt89/silverstripe-garbage-collector": "dev-master",
-        "robingram/silverstripe-unused-file-report": "dev-master",
+        "sunnysideup/silverstripe-garbage-collector": "dev-master",
+        "sunnysideup/silverstripe-unused-file-report": "dev-master",
         "sunnysideup/assets_overview": "dev-master",
         "sunnysideup/remove-orphaned-elementals": "dev-main",
         "sunnysideup/cleanup-tables": "dev-master",
@@ -56,20 +56,6 @@
             "name": "Nicolaas Thiemen Francken",
             "email": "modules@sunnysideup.co.nz",
             "role": "lead developer"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/sunnysideup/silverstripe-unused-file-report.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com:sunnysideup/silverstripe-garbage-collector.git"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com:sunnysideup/silverstripe-scaled-uploads.git"
         }
     ]
 }
