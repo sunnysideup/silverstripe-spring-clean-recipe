@@ -43,7 +43,7 @@ vendor/bin/sake dev/build flush=all
 
 vendor/bin/sake dev/tasks/UnusedFileReportBuildTask
 vendor/bin/sake dev/tasks/delete-all-unused-files
-vendor/bin/sake dev/tasks/delete-files-from-disk-not-found-in-database
+vendor/bin/sake dev/tasks/delete-files-from-disk-not-found-in-database forreal=1
 
 ##### ##### ##### ##### 
 # resize your remaining images
