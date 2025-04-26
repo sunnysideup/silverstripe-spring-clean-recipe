@@ -12,7 +12,7 @@ Simply get an sspak from your live site and run it locally, then, super carefull
 
 The example provided here is just one way to do it.  There are many ways to use this module.
 
-Please review all tasks used here and also look at the other modules included and not used below.
+Please review all tasks used here and also look at the other modules included, not used below.
 
 ```shell
 #!/bin/bash
