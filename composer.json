@@ -16,20 +16,8 @@
   ],
   "license": "BSD-3-Clause",
   "require": {
-    "silverstripe/framework": "^5.0",
-    "silverstripe/admin": "^2.0",
-    "sunnysideup/silverstripe-garbage-collector": "5.x-dev",
-    "sunnysideup/silverstripe-unused-file-report": "5.x-dev",
-    "sunnysideup/assets_overview": "5.x-dev",
-    "sunnysideup/remove-orphaned-elementals": "5.x-dev",
-    "sunnysideup/cleanup-tables": "5.x-dev",
-    "sunnysideup/database-share-clean-up": "5.x-dev",
-    "sunnysideup/dataintegritytests": "5.x-dev",
-    "sunnysideup/delete-all-tables": "5.x-dev",
-    "sunnysideup/templateoverview": "5.x-dev",
-    "sunnysideup/resize-all-images": "5.x-dev",
-    "sunnysideup/version-pruner": "5.x-dev",
-    "oddnoc/silverstripe-artefactcleaner": "dev-main"
+    "silverstripe/framework": "^6.0",
+    "silverstripe/admin": "^3.0"
   },
   "require-dev": {
     "silverleague/ideannotator": "*",
@@ -57,5 +45,67 @@
       "email": "modules@sunnysideup.co.nz",
       "role": "lead developer"
     }
-  ]
+  ],
+  "yet-to-update": {
+    "sunnysideup/silverstripe-garbage-collector": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/silverstripe-unused-file-report": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/assets_overview": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/remove-orphaned-elementals": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/cleanup-tables": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/database-share-clean-up": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/dataintegritytests": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/delete-all-tables": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/templateoverview": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/resize-all-images": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "sunnysideup/version-pruner": {
+      "section": "require",
+      "current": "^5.0-dev",
+      "reason": "no-compatible-stable-release"
+    },
+    "oddnoc/silverstripe-artefactcleaner": {
+      "section": "require",
+      "current": "dev-main",
+      "reason": "no-compatible-stable-release"
+    }
+  }
 }
