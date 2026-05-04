@@ -29,7 +29,7 @@
     "sunnysideup/templateoverview": "dev-main",
     "sunnysideup/resize-all-images": "dev-main",
     "sunnysideup/version-pruner": "dev-main",
-    "oddnoc/silverstripe-artefactcleaner": "dev-main"
+    "sunnysideup/silverstripe-artefactcleaner": "dev-main"
 
   },
   "require-dev": {
