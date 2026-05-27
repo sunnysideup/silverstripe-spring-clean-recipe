@@ -29,7 +29,7 @@
     "sunnysideup/templateoverview": "5.x-dev",
     "sunnysideup/resize-all-images": "5.x-dev",
     "sunnysideup/version-pruner": "5.x-dev",
-    "oddnoc/silverstripe-artefactcleaner": "5.x-dev"
+    "sunnysideup/silverstripe-artefactcleaner": "5.x-dev"
   },
   "require-dev": {
     "silverleague/ideannotator": "*",
