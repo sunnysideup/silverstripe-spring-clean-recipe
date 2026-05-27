@@ -56,6 +56,12 @@
       "name": "Nicolaas Thiemen Francken",
       "email": "modules@sunnysideup.co.nz",
       "role": "lead developer"
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "git@github.com:sunnysideup/silverstripe-artefactcleaner.git"
+        }
+    ]
   ]
 }
